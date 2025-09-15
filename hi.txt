@@ -1,5 +1,5 @@
 // refactored some functions
-this is new here
-ywell what you donna go?
+ hi there
+-you doing ok?
 this is a new one
 hi me
